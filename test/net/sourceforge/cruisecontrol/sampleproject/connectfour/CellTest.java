@@ -37,6 +37,7 @@
 package net.sourceforge.cruisecontrol.sampleproject.connectfour;
 
 import junit.framework.TestCase;
+import net.sourceforge.cruisecontrol.sampleproject.connectfour.Cell;
 
 public class CellTest extends TestCase {
 
