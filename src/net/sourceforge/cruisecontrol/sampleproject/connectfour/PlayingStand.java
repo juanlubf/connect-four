@@ -41,6 +41,7 @@ package net.sourceforge.cruisecontrol.sampleproject.connectfour;
  * class encapsulates all the game logic, including turn-based plays, winning,
  * stalemating and illegal moves.
  */
+
 public class PlayingStand {
     private static final int MAX_ROWS = 6;
     private static final int MAX_COLUMNS = 7;
